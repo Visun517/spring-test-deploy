@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="security_back_end" />
+        <module name="07_Spring_Env" />
+        <module name="01.Spring_core" />
+        <module name="Back_end" />
+        <module name="03_Dependency_injection_with_Spring" />
+        <module name="06_Runtime_value_injection" />
+        <module name="09_REST_Controllers" />
+        <module name="05_Configurations" />
+        <module name="08_Spring_web_mvc" />
+        <module name="04_full_mode_vs_light_mode" />
+        <module name="02_Spring_bean_ife_cycles" />
+      </profile>
+      <profile name="Annotation profile for springdeployments" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+        <module name="springdeployments" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_testing" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Back_end" options="-parameters" />
+      <module name="security_back_end" options="-parameters" />
+      <module name="spring_testing" options="-parameters" />
+      <module name="springdeployments" options="-parameters" />
+    </option>
+  </component>
+</project>

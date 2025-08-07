@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/14.Spring_testing" />
+    <file type="web" url="file://$PROJECT_DIR$/security-front-end" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/01. Spring_core/pom.xml" />
+        <option value="$PROJECT_DIR$/02_Spring_bean_ife_cycles/pom.xml" />
+        <option value="$PROJECT_DIR$/03_Dependency_injection_with_Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/04_full_mode_vs_light_mode/pom.xml" />
+        <option value="$PROJECT_DIR$/05_Configurations/pom.xml" />
+        <option value="$PROJECT_DIR$/06_Run_time_value_injection/pom.xml" />
+        <option value="$PROJECT_DIR$/07_Spring_Env/pom.xml" />
+        <option value="$PROJECT_DIR$/08_Spring_web_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/09_REST_Controllers/pom.xml" />
+        <option value="$PROJECT_DIR$/10.Front-end/pom.xml" />
+        <option value="$PROJECT_DIR$/11._Back_end/pom.xml" />
+        <option value="$PROJECT_DIR$/13. security_Back_end/pom.xml" />
+        <option value="$PROJECT_DIR$/13.security_back_end/pom.xml" />
+        <option value="$PROJECT_DIR$/14.Spring_testing/pom.xml" />
+        <option value="$PROJECT_DIR$/15.spring/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/10.Front-end/pom.xml" />
+        <option value="$PROJECT_DIR$/13. security_Back_end/pom.xml" />
+        <option value="$PROJECT_DIR$/15.spring/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

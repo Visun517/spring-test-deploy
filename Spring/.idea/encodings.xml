@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/02_Spring_bean_ife_cycles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_Spring_bean_ife_cycles/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_Dependency_injection_with_Spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03_Dependency_injection_with_Spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_full_mode_vs_light_mode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_full_mode_vs_light_mode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_Configurations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_Configurations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_Run_time_value_injection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_Run_time_value_injection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_Spring_Env/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_Spring_Env/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08_Spring_web_mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08_Spring_web_mvc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09_REST_Controllers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09_REST_Controllers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10.Front-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10.Front-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11._Back_end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13.security_back_end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14.Spring_testing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15.spring/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_testing" />
+        <module name="security_back_end" />
+        <module name="01.Spring_core" />
+        <module name="07_Spring_Env" />
+        <module name="03_Dependency_injection_with_Spring" />
+        <module name="Back_end" />
+        <module name="06_Runtime_value_injection" />
+        <module name="09_REST_Controllers" />
+        <module name="05_Configurations" />
+        <module name="04_full_mode_vs_light_mode" />
+        <module name="08_Spring_web_mvc" />
+        <module name="02_Spring_bean_ife_cycles" />
+      </profile>
+      <profile name="Annotation profile for 15.spring" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="10.Front-end" target="17" />
+      <module name="spring" target="17" />
+      <module name="Spring_testing" target="17" />
+      <module name="Spring_testing.main" target="17" />
+      <module name="Spring_testing.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Back_end" options="-parameters" />
+      <module name="security_back_end" options="-parameters" />
+      <module name="spring" options="-parameters" />
+      <module name="spring_testing" options="-parameters" />
+    </option>
+  </component>
+</project>
